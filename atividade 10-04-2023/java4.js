@@ -1,0 +1,5 @@
+/*
+
+Escreva um script que remova o primeiro elemento de um array.
+
+*/
